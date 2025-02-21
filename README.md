@@ -23,6 +23,19 @@ This project focused on strengthening the security posture of Ubuntu 20.04 by en
 - VMware
 
 ## Procedures 
+### Enforcing Automatic Updates
+#### Purpose: Ensure that all Ubuntu systems receive security updates automatically, reducing exposure to vulnerabilities. 
+
+### Steps:
+
+Updated system package lists and installed required updates:
+
+sudo apt-get update
+
+sudo apt-get upgrade 
+
+
+
 
 
 
